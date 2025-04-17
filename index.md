@@ -4,7 +4,7 @@
         <h3>ENOUGH Grant Program Community Eligibility Tool</h3>
       </a>
   <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="ENOUGH_Application.jpg" alt="Screenshot of ENOUGH Grant Program Community Eligibility Tool" 
+    <img src="Images/ENOUGH_Application.jpg" alt="Screenshot of ENOUGH Grant Program Community Eligibility Tool" 
          style="max-width: 40%; height: auto; border-radius: 8px;
          margin-right: 20px; border: 2px solid black;">
     <div>
@@ -17,7 +17,7 @@
         <h3>Baltimore County Social Determinants of Health (SDOH)</h3>
       </a>
   <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="SDOH_Application.jpg" alt="Screenshot of Social Determinants of Health Application" 
+    <img src="Images/SDOH_Application.jpg" alt="Screenshot of Social Determinants of Health Application" 
          style="max-width: 40%; height: auto; border-radius: 8px; margin-right: 20px; border: 2px solid black;">
     <div>
       <p>
@@ -29,7 +29,7 @@
         <h3>Baltimore County Restaurant Closure Dashboard</h3>
       </a>
   <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="Restaurant_Closure_Dashboard.jpg" alt="Screenshot of Restaurant Closure Dashboard" 
+    <img src="Images/Restaurant_Closure_Dashboard.jpg" alt="Screenshot of Restaurant Closure Dashboard" 
          style="max-width: 40%; height: auto; border-radius: 8px; margin-right: 20px; border: 2px solid black;">
     <div>
       <p>
