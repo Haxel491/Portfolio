@@ -3,9 +3,10 @@
 
 <h2>Professional Work</h2>
 <ul>
-  <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="ENOUGH_Application.jpg" alt="Screenshot of ENOUGH Grant Program Community Eligibility Tool" 
-         style="max-width: 150px; height: auto; margin-right: 20px; border: 2px solid black;">
+         style="max-width: 40%; height: auto; border-radius: 8px;
+         margin-right: 20px; border: 2px solid black;">
     <div>
       <a href="https://experience.arcgis.com/experience/8b24a4ffb5ee4670af96d7b174c1933b" target="_blank" rel="noopener noreferrer">
         <h3>ENOUGH Grant Program Community Eligibility Tool</h3>
@@ -16,9 +17,9 @@
     </div>
   </div>
 
-  <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="SDOH_Application.jpg" alt="Screenshot of Social Determinants of Health Application" 
-         style="max-width: 150px; height: auto; margin-right: 20px; border: 2px solid black;">
+         style="max-width: 40%; height: auto; border-radius: 8px; margin-right: 20px; border: 2px solid black;">
     <div>
       <a href="https://experience.arcgis.com/experience/48745860e33843ab8929ac587a745d96" target="_blank" rel="noopener noreferrer">
         <h3>Baltimore County Social Determinants of Health (SDOH)</h3>
