@@ -11,9 +11,7 @@
         <h3>ENOUGH Grant Program Community Eligibility Tool</h3>
       </a>
       <p>
-        The ENOUGH Grant Program Community Eligibility Tool supports anti-poverty initiatives across urban, suburban, and rural communities in Maryland. It identifies eligible areas based on two criteria:  
-        - At least one U.S. Census tract with over 30% of children living in poverty.  
-        - A Maryland community school with a concentration of poverty of at least 80%.  
+        The ENOUGH Grant Program Community Eligibility Tool supports anti-poverty initiatives across urban, suburban, and rural communities in Maryland. It identifies eligible areas based on two criteria: At least one U.S. Census tract with over 30% of children living in poverty. A Maryland community school with a concentration of poverty of at least 80%.  
       </p>
     </div>
   </div>
