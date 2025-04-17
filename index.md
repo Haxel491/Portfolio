@@ -1,7 +1,4 @@
-<h1> Portfolio </h1>
-
-
-<h2>Professional Work</h2>
+<h1>Professional Work</h1>
 <ul>
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="ENOUGH_Application.jpg" alt="Screenshot of ENOUGH Grant Program Community Eligibility Tool" 
