@@ -1,24 +1,37 @@
-## Portfolio
+<h1> Portfolio </h1>
+---
+
+
+
+
+
+
+<h2>Professional Work</h2>
+
+<ul>
+  <li>
+    <a href="https://experience.arcgis.com/experience/8b24a4ffb5ee4670af96d7b174c1933b" target="_blank" rel="noopener noreferrer">
+      <b>ENOUGH Grant Program Community Eligibility Tool</b>
+    </a>: Collaborated with Maryland Governor Moore's Office of Children to develop the ENOUGH Grant Program Community Eligibility Tool.
+    <br>
+    <img src="ENOUGH_Application.jpg" alt="Screenshot of ENOUGH Grant Program Community Eligibility Tool" style="max-width: 100%; height: auto; margin-top: 10px;">
+  </li>
+  <li>
+    <a href="https://haxel491.github.io/Vacant_Houses_Project/index.html" target="_blank" rel="noopener noreferrer">
+      <b>Exploring the Number of Vacant Homes in Maryland</b>
+    </a>: Built a 3D web map using the ArcGIS JavaScript API.
+  </li>
+</ul>
+
 ---
 
 <h2>Research Projects</h2>
 
 ### [Examing Electrical Vehicle Charging Station Coverage in Travis County, Texas](/Texas_EV_Stations/index.md)
 
-Proposing new prospective locations for electrical vehicle charging stations through the use of user/location demand model and GIS network analysis
+<p>Proposing new prospective locations for electrical vehicle charging stations through the use of user/location demand model and GIS network analysis</p>
 
 
----
-
-<h2>Online GIS Web Maps</h2>
-
- <h3><a href="https://haxel491.github.io/US_Elections/Presidential/2016/Web_Map/index.html" target="_blank" rel="noopener noreferrer">2016 U.S. Presidential Election Results</a></h3>
- <p>Creating a custom web map with ESRI's REST server, ArcGIS JavaScript API, and Dojo's Digit containers</p>
- 
- <h3><a href="https://haxel491.github.io/Vacant_Houses_Project/index.html" target="_blank" rel="noopener noreferrer">Exploring the Number of Vacant Homes in Maryland</a></h3>
- <p>Using the ArcGIS JavaScript API to build a 3D web map</p>
- 
----
 
 <h2>Notable Courses Taken at Penn State University</h2>
 
