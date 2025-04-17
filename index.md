@@ -5,8 +5,9 @@
 <h2>Professional Work</h2>
     <a href="https://experience.arcgis.com/experience/8b24a4ffb5ee4670af96d7b174c1933b" target="_blank" rel="noopener noreferrer">
       <h3>ENOUGH Grant Program Community Eligibility Tool</h3>
-    </a> Collaborated with Maryland Governor Moore's Office of Children to develop the ENOUGH Grant Program Community Eligibility Tool.
-    <br>
+    </a>
+    <p>Collaborated with Maryland Governor Moore's Office of Children to develop the ENOUGH Grant Program Community Eligibility Tool.</p>
+    <img src="ENOUGH_Application.jpg" alt="Screenshot of ENOUGH Grant Program Community Eligibility Tool" class="image-style">
     <img src="ENOUGH_Application.jpg" alt="Screenshot of ENOUGH Grant Program Community Eligibility Tool" style="max-width: 100%; height: auto; margin-top: 10px; border: 2px solid black;">
 
 
