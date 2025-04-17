@@ -1,33 +1,36 @@
 <h1> Portfolio </h1>
 
 
-
 <h2>Professional Work</h2>
-    <a href="https://experience.arcgis.com/experience/8b24a4ffb5ee4670af96d7b174c1933b" target="_blank" rel="noopener noreferrer">
-      <h3>ENOUGH Grant Program Community Eligibility Tool</h3>
-    </a>
-      <img src="ENOUGH_Application.jpg" alt="Screenshot of ENOUGH Grant Program Community Eligibility Tool" style="max-width: 100%; height: auto; margin-top: 10px; border: 2px solid black;">
-      <p>Collaborated with Maryland Governor Moore's Office of Children to develop the ENOUGH Grant Program Community Eligibility Tool.</p>
+<ul>
+  <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <img src="ENOUGH_Application.jpg" alt="Screenshot of ENOUGH Grant Program Community Eligibility Tool" 
+         style="max-width: 150px; height: auto; margin-right: 20px; border: 2px solid black;">
+    <div>
+      <a href="https://experience.arcgis.com/experience/8b24a4ffb5ee4670af96d7b174c1933b" target="_blank" rel="noopener noreferrer">
+        <h3>ENOUGH Grant Program Community Eligibility Tool</h3>
+      </a>
+      <p>
+        The ENOUGH Grant Program Community Eligibility Tool supports anti-poverty initiatives across urban, suburban, and rural communities in Maryland. It identifies eligible areas based on two criteria:  
+        - At least one U.S. Census tract with over 30% of children living in poverty.  
+        - A Maryland community school with a concentration of poverty of at least 80%.  
+      </p>
+    </div>
+  </div>
 
-
-  <a href="https://experience.arcgis.com/experience/48745860e33843ab8929ac587a745d96" target="_blank" rel="noopener noreferrer">
-      <h3>Baltimore County Social Determinants of Health (SDOH)</h3>
-    </a>
+  <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
     <img src="SDOH_Application.jpg" alt="Screenshot of Social Determinants of Health Application" 
-    style="max-width: 100%; height: auto; margin-top: 10px; border: 2px solid black;">
-    <p>
-The Baltimore County Social Determinants of Health (SDOH) application is an interactive tool that visualizes the factors influencing health and quality of life in the community. It integrates data from local, state, and federal sources, including the U.S. Census Bureau and the Environmental Protection Agency, and is organized around the five key domains of Healthy People 2030:
-
-- **Economic Stability**
-- **Education Access and Quality**
-- **Health Care Access and Quality**
-- **Neighborhood and Built Environment**
-- **Social and Community Context**
-
-The application provides layered map views, enabling users to explore datasets, overlay indicators, and uncover the relationships between social factors and health outcomes. It serves as a resource for policymakers, health professionals, and community members to identify areas for intervention and develop strategies to improve public health and equity. </p>
-
-
-
+         style="max-width: 150px; height: auto; margin-right: 20px; border: 2px solid black;">
+    <div>
+      <a href="https://experience.arcgis.com/experience/48745860e33843ab8929ac587a745d96" target="_blank" rel="noopener noreferrer">
+        <h3>Baltimore County Social Determinants of Health (SDOH)</h3>
+      </a>
+      <p>
+        The Baltimore County Social Determinants of Health (SDOH) application is an interactive tool that visualizes the factors influencing health and quality of life in the community. It integrates data from local, state, and federal sources, including the U.S. Census Bureau and the Environmental Protection Agency, and is organized around the five key domains of Healthy People 2030.
+      </p>
+    </div>
+  </div>
+</ul>
 
 
 ---
