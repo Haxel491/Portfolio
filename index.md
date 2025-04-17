@@ -9,12 +9,8 @@
     <br>
     <img src="ENOUGH_Application.jpg" alt="Screenshot of ENOUGH Grant Program Community Eligibility Tool" style="max-width: 100%; height: auto; margin-top: 10px; border: 2px solid black;">
 
-  <li>
-    <a href="https://haxel491.github.io/Vacant_Houses_Project/index.html" target="_blank" rel="noopener noreferrer">
-      <b>Exploring the Number of Vacant Homes in Maryland</b>
-    </a>: Built a 3D web map using the ArcGIS JavaScript API.
-  </li>
-</ul>
+
+
 
 ---
 
