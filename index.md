@@ -24,7 +24,21 @@
         The Baltimore County Social Determinants of Health (SDOH) application is an interactive tool that visualizes the factors influencing health and quality of life in the community. It integrates data from local, state, and federal sources, including the U.S. Census Bureau and the Environmental Protection Agency, and is organized around the five key domains of Healthy People 2030.
       </p>
     </div>
+      </div>
+      <a href="https://bc-gis.maps.arcgis.com/apps/webappviewer/index.html?id=b962ecb3984e419e89d7406c9eb80a7b" target="_blank" rel="noopener noreferrer">
+        <h3>Baltimore County Restaurant Closure Dashboard</h3>
+      </a>
+  <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <img src="Restaurant_Closure_Dashboard.jpg" alt="Screenshot of Restaurant Closure Dashboard" 
+         style="max-width: 40%; height: auto; border-radius: 8px; margin-right: 20px; border: 2px solid black;">
+    <div>
+      <p>
+        The Food Establishment Closure Dashboard is an interactive tool that highlights establishments closed due to critical health violations identified during inspections. Users can explore public data, including establishment names, closure dates, reasons for closure, and reopen dates, by selecting locations on the map or from a list. This tool helps promote transparency and public awareness of food safety standards in the community.
+      </p>
+    </div>
   </div>
+
+  
 </ul>
 
 
