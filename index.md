@@ -1,21 +1,14 @@
 <h1> Portfolio </h1>
----
-
-
-
 
 
 
 <h2>Professional Work</h2>
-
-<ul>
-  <li>
     <a href="https://experience.arcgis.com/experience/8b24a4ffb5ee4670af96d7b174c1933b" target="_blank" rel="noopener noreferrer">
-      <b>ENOUGH Grant Program Community Eligibility Tool</b>
-    </a>: Collaborated with Maryland Governor Moore's Office of Children to develop the ENOUGH Grant Program Community Eligibility Tool.
+      <h3>ENOUGH Grant Program Community Eligibility Tool</h3>
+    </a> Collaborated with Maryland Governor Moore's Office of Children to develop the ENOUGH Grant Program Community Eligibility Tool.
     <br>
-    <img src="ENOUGH_Application.jpg" alt="Screenshot of ENOUGH Grant Program Community Eligibility Tool" style="max-width: 100%; height: auto; margin-top: 10px;">
-  </li>
+    <img src="ENOUGH_Application.jpg" alt="Screenshot of ENOUGH Grant Program Community Eligibility Tool" style="max-width: 100%; height: auto; margin-top: 10px; border: 2px solid black;">
+
   <li>
     <a href="https://haxel491.github.io/Vacant_Houses_Project/index.html" target="_blank" rel="noopener noreferrer">
       <b>Exploring the Number of Vacant Homes in Maryland</b>
